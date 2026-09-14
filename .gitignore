@@ -1,2 +1,12 @@
 _site/
 
+
+# CV LaTeX source and build artifacts (only the compiled PDF is published)
+files/Lorenz_Gschwent_CV.tex
+files/res.cls
+files/*.log
+files/*.synctex.gz
+files/*.aux
+files/*.out
+files/*.fls
+files/*.fdb_latexmk
