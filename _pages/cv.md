@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://log-ghj.github.io/files/Lorenz_Gschwent_CV.pdf)
+[CV](https://lorenzgschwent.github.io/files/Lorenz_Gschwent_CV.pdf)

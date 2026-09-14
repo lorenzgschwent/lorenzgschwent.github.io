@@ -23,7 +23,7 @@ This paper explores the evolving role of health economics within economic resear
 ## Current projects
 **Censorship in Democracy** (with Marcel Caesmann, and Matteo Grigoletto). Submitted
 <details>
-<summary>Abstract | <a href="https://log-ghj.github.io/files/CensorshipInDemocracy_Jun2026.pdf">Working Paper</a> | <a href="https://cepr.org/voxeu/columns/censorship-defend-democracy"> VoxEU Column </a> </summary>
+<summary>Abstract | <a href="https://lorenzgschwent.github.io/files/CensorshipInDemocracy_Jun2026.pdf">Working Paper</a> | <a href="https://cepr.org/voxeu/columns/censorship-defend-democracy"> VoxEU Column </a> </summary>
 Democracies increasingly use censorship to counter foreign propaganda, yet evidence on its consequences remains scarce. We exploit the European Union’s 2022 ban on Russia Today (RT) and Sputnik as a natural experiment, using a triple-difference design that compares users connected to the banned outlets against unconnected users in EU and non-EU countries. We analyze a daily panel of 677,780 tweets from 146,633 Twitter users in seven European countries. Pro-Russia output declines by 21.7% among connected EU users; in a difference-in-differences comparison with non-EU users, total pro-Russia output among EU users falls by 13.6%. Alternative suppliers do not fill the gap: neither their pro-Russia output nor the engagement they receive rises after the ban. Consistent with an agenda-setting role of the banned outlets, the share of EU users’ tweets covering the outlets’ daily top-five topics decreases by 17%. A survey experiment offers suggestive evidence that such censorship can come at a cost to the very norms it is meant to defend.</details>
 <br>
 
