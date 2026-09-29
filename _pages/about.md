@@ -21,15 +21,15 @@ This paper explores the evolving role of health economics within economic resear
 
 
 ## Current projects
+**Selection in the Patent Lottery**
+<details>
+<summary>Abstract </summary>
+The patent lottery created by inconsistent examination at the US Patent and Trademark Office is well documented, but the kind of patents it creates is unknown. Using a novel measure of invention quality and the quasi-random variation of the lottery, I characterize marginal patents in 5.4 million applications across invention quality and the filed scope of exclusionary rights. I find that inconsistency creates overly broad patents that can block follow-on inventions. My findings are explained by selection, as better inventions request broader scope but do not have a higher chance at acceptance: the advantage of quality and the penalty of the larger filed scope cancel almost exactly. In a structural model of examination as a multi-round negotiation over scope, I ask what changes when examiners are made more consistent. A consistent examiner pool reallocates 11.7% of granted scope -- and almost all of the reallocation is between applications of the same quality.</details>
+<br>
+
+
 **Censorship in Democracy** (with Marcel Caesmann, and Matteo Grigoletto). Submitted
 <details>
 <summary>Abstract | <a href="https://lorenzgschwent.github.io/files/CensorshipInDemocracy_Jun2026.pdf">Working Paper</a> | <a href="https://cepr.org/voxeu/columns/censorship-defend-democracy"> VoxEU Column </a> </summary>
 Democracies increasingly use censorship to counter foreign propaganda, yet evidence on its consequences remains scarce. We exploit the European Union’s 2022 ban on Russia Today (RT) and Sputnik as a natural experiment, using a triple-difference design that compares users connected to the banned outlets against unconnected users in EU and non-EU countries. We analyze a daily panel of 677,780 tweets from 146,633 Twitter users in seven European countries. Pro-Russia output declines by 21.7% among connected EU users; in a difference-in-differences comparison with non-EU users, total pro-Russia output among EU users falls by 13.6%. Alternative suppliers do not fill the gap: neither their pro-Russia output nor the engagement they receive rises after the ban. Consistent with an agenda-setting role of the banned outlets, the share of EU users’ tweets covering the outlets’ daily top-five topics decreases by 17%. A survey experiment offers suggestive evidence that such censorship can come at a cost to the very norms it is meant to defend.</details>
-<br>
-
-
-**Selection in the Patent Lottery**
-<details>
-<summary>Abstract </summary>
-Patents reward inventions with exclusion rights that can block follow-on innovations. Yet patent grants at the US Patent Office are partly a lottery. The office assigns applications quasi-randomly to examiners within narrow technology fields, and examiner grant rates span roughly 40 percentage points: whether an application becomes a patent depends on the examiner it draws. I ask which applications the lottery favors: are they higher-quality inventions or applications seeking broader intellectual property rights? I measure invention quality from embeddings of the application's own text, fixed at filing: high-quality applications depart from what their field filed before and are echoed by what the field files after. Across $5.4$ million applications published between 2005 and 2020, 4.7% of granted patents owe their grant to an examiner more lenient than the average examiner the application could have drawn. The share of patents owed to a lenient examiner rises by 1.6 percentage points from the narrowest-scope filings to the broadest. But it moves by less than half a percentage point across the entire quality distribution: the lottery selects on scope, not quality. Better inventions request broader protection but are no likelier to be granted -- the advantage of quality and the penalty of the larger request cancel almost exactly. In a structural model of examination as a multi-round negotiation over scope, I ask what changes when examiners are made more consistent. Holding total patents and total granted scope constant, a consistent examiner pool reallocates 11.7% of intellectual property rights -- and almost all of the reallocation is between applications of the same quality. The patent lottery misallocates exclusion rights by the size of the request rather than the quality of the invention.</details>
 <br>
