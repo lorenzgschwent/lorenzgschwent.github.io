@@ -11,6 +11,20 @@ redirect_from:
 # Welcome
 I am a PhD student in Economics at the [University of Duisburg-Essen](https://www.vwl.msm.uni-due.de/en/home/) and a member of the Research Training Group 2484 [Regional Disparities and Economic Policy](https://www.regional-disparities.de/). I am an applied microeconomist with research interests in Innovation Economics and Political Economy.
 
+## Current projects
+**Selection in the Patent Lottery**
+<details>
+<summary>Abstract </summary>
+The patent lottery created by inconsistent examination at the US Patent and Trademark Office is well documented, but the kind of patents it creates is unknown. Using a novel measure of invention quality and the quasi-random variation of the lottery, I characterize marginal patents in 5.4 million applications across invention quality and the filed scope of exclusionary rights. I find that inconsistency creates overly broad patents that can block follow-on inventions. My findings are explained by selection, as better inventions request broader scope but do not have a higher chance at acceptance: the advantage of quality and the penalty of the larger filed scope cancel almost exactly. In a structural model of examination as a multi-round negotiation over scope, I ask what changes when examiners are made more consistent. A consistent examiner pool reallocates 11.7% of granted scope - and almost all of the reallocation is between applications of the same quality.</details>
+<br>
+
+
+**Censorship in Democracy** (with Marcel Caesmann, and Matteo Grigoletto). Submitted
+<details>
+<summary>Abstract | <a href="https://lorenzgschwent.github.io/files/CensorshipInDemocracy_Jun2026.pdf">Working Paper</a> | <a href="https://cepr.org/voxeu/columns/censorship-defend-democracy"> VoxEU Column </a> </summary>
+Democracies increasingly use censorship to counter foreign propaganda, yet evidence on its consequences remains scarce. We exploit the European Union’s 2022 ban on Russia Today (RT) and Sputnik as a natural experiment, using a triple-difference design that compares users connected to the banned outlets against unconnected users in EU and non-EU countries. We analyze a daily panel of 677,780 tweets from 146,633 Twitter users in seven European countries. Pro-Russia output declines by 21.7% among connected EU users; in a difference-in-differences comparison with non-EU users, total pro-Russia output among EU users falls by 13.6%. Alternative suppliers do not fill the gap: neither their pro-Russia output nor the engagement they receive rises after the ban. Consistent with an agenda-setting role of the banned outlets, the share of EU users’ tweets covering the outlets’ daily top-five topics decreases by 17%. A survey experiment offers suggestive evidence that such censorship can come at a cost to the very norms it is meant to defend.</details>
+<br>
+
 ## Publications
 **The Rise of Health Economics: Transforming the Landscape of Economic Research** (with Björn Hammarfelt, Martin Karlsson, and Mathias Kifmann). Health Economics
 <details>
@@ -20,16 +34,3 @@ This paper explores the evolving role of health economics within economic resear
 <br>
 
 
-## Current projects
-**Selection in the Patent Lottery**
-<details>
-<summary>Abstract </summary>
-The patent lottery created by inconsistent examination at the US Patent and Trademark Office is well documented, but the kind of patents it creates is unknown. Using a novel measure of invention quality and the quasi-random variation of the lottery, I characterize marginal patents in 5.4 million applications across invention quality and the filed scope of exclusionary rights. I find that inconsistency creates overly broad patents that can block follow-on inventions. My findings are explained by selection, as better inventions request broader scope but do not have a higher chance at acceptance: the advantage of quality and the penalty of the larger filed scope cancel almost exactly. In a structural model of examination as a multi-round negotiation over scope, I ask what changes when examiners are made more consistent. A consistent examiner pool reallocates 11.7% of granted scope -- and almost all of the reallocation is between applications of the same quality.</details>
-<br>
-
-
-**Censorship in Democracy** (with Marcel Caesmann, and Matteo Grigoletto). Submitted
-<details>
-<summary>Abstract | <a href="https://lorenzgschwent.github.io/files/CensorshipInDemocracy_Jun2026.pdf">Working Paper</a> | <a href="https://cepr.org/voxeu/columns/censorship-defend-democracy"> VoxEU Column </a> </summary>
-Democracies increasingly use censorship to counter foreign propaganda, yet evidence on its consequences remains scarce. We exploit the European Union’s 2022 ban on Russia Today (RT) and Sputnik as a natural experiment, using a triple-difference design that compares users connected to the banned outlets against unconnected users in EU and non-EU countries. We analyze a daily panel of 677,780 tweets from 146,633 Twitter users in seven European countries. Pro-Russia output declines by 21.7% among connected EU users; in a difference-in-differences comparison with non-EU users, total pro-Russia output among EU users falls by 13.6%. Alternative suppliers do not fill the gap: neither their pro-Russia output nor the engagement they receive rises after the ban. Consistent with an agenda-setting role of the banned outlets, the share of EU users’ tweets covering the outlets’ daily top-five topics decreases by 17%. A survey experiment offers suggestive evidence that such censorship can come at a cost to the very norms it is meant to defend.</details>
-<br>
