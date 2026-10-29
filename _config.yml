@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : 6c3ce0ea31b31a47
+google_site_verification : # HTML-tag token from Search Console; ownership is verified via google6c3ce0ea31b31a47.html
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -131,6 +131,7 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
+  - CONTRIBUTING
   - Capfile
   - Gemfile
   - Gruntfile.js
@@ -143,8 +144,12 @@ exclude:
   - config
   - gulpfile.js
   - log
+  - markdown_generator
   - node_modules
   - package.json
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
   - tmp
   - vendor
 keep_files:
@@ -210,6 +215,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # Search Console verification file
+  - scope:
+      path: "google6c3ce0ea31b31a47.html"
+    values:
+      sitemap: false
   # _teaching
   - scope:
       path: ""
