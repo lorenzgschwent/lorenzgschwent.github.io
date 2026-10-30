@@ -14,7 +14,7 @@ I am a PhD student in Economics at the [University of Duisburg-Essen](https://ww
 **I am on the 2026/27 academic job market.**
 
 ## Current projects
-**Granting Intellectual Property Rights: Invention Quality and the Scope of Protection** 
+**Granting Intellectual Property Rights: Invention Quality and the Scope of Protection** \
 **Job Market Paper**
 <details>
 <summary>Abstract | <a href="https://lorenzgschwent.github.io/files/patents.pdf">Paper</a> </summary>
