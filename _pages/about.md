@@ -14,7 +14,8 @@ I am a PhD student in Economics at the [University of Duisburg-Essen](https://ww
 **I am on the 2026/27 academic job market.**
 
 ## Current projects
-**Granting Intellectual Property Rights: Invention Quality and the Scope of Protection** Job Market Paper
+**Granting Intellectual Property Rights: Invention Quality and the Scope of Protection** 
+**Job Market Paper**
 <details>
 <summary>Abstract | <a href="https://lorenzgschwent.github.io/files/patents.pdf">Paper</a> </summary>
 A patent office judges the quality of an invention and the scope of protection the applicant requests. I measure both from the text of 5.4 million US patent applications and find that the outcome of examination depends on the scope far more than on the quality. Using the assignment of applications to examiners, I show that among granted patents, the average alternative examiner would have refused about 8.6% of the broadest requests but only 5.9% of the narrowest. Studies that use the examiner assignment to estimate what a patent does therefore describe broad requests far more than low-quality inventions. In an estimated model in which applicants choose how broadly to claim, a stricter office of the kind reform proposals call for narrows patents mostly because applicants request less scope. A stricter office changes which inventions receive patents far less than an equally strict test of invention quality would.</details>
