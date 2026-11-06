@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Welcome
-I am a PhD student in Economics at the [University of Duisburg-Essen](https://www.vwl.msm.uni-due.de/en/home/) and a member of the Research Training Group 2484 [Regional Disparities and Economic Policy](https://www.regional-disparities.de/). I am an applied microeconomist with research interests in Economics of Innovation.
+I am a PhD student in Economics at the [University of Duisburg-Essen](https://www.vwl.msm.uni-due.de/en/home/) and a member of the Research Training Group 2484 [Regional Disparities and Economic Policy](https://www.regional-disparities.de/). I am an applied microeconomist with research interests at the intersection of the economics of science and innovation and empirical industrial organization.
 
 **I am on the 2026/27 academic job market.**
 
