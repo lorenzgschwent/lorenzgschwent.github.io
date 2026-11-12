@@ -21,4 +21,4 @@ author_profile: true
 
 ## Various illustrations for Introductory Micro (in German)<br>
 
-[Sukzessives Monopol] (https://colab.research.google.com/drive/1svI9xtMTUI7UMJ590B3cAeqYi-D2wGy9?usp=sharing)
+[Sukzessives Monopol](https://colab.research.google.com/drive/1svI9xtMTUI7UMJ590B3cAeqYi-D2wGy9?usp=sharing)
