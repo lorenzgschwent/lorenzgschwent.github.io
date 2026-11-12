@@ -15,6 +15,10 @@ author_profile: true
 
 [Visualisierung des Minimierungsproblems des OLS-Schätzers](https://colab.research.google.com/drive/1OdI0ftl4obin7C_ySFL2o9jWaXfZUJ-v?usp=sharing)<br>
 
-[Das Anscombe-Quartett und Bestimmtheitsmaße](https://colab.research.google.com/drive/1wG72Z0d5-9tix_5s8aBNQeccFYqQvx_h?usp=sharing)
+[Das Anscombe-Quartett und Bestimmtheitsmaße](https://colab.research.google.com/drive/1wG72Z0d5-9tix_5s8aBNQeccFYqQvx_h?usp=sharing)<br>
 
-[log-Transformationen](https://colab.research.google.com/drive/1bkqeGsYJDwTWA5smkeSJl9e0nFwO4EIY?usp=sharing)
+[log-Transformationen](https://colab.research.google.com/drive/1bkqeGsYJDwTWA5smkeSJl9e0nFwO4EIY?usp=sharing)<br>
+
+## Various illustrations for Introductory Micro (in German)<br>
+
+[Sukzessives Monopol] (https://colab.research.google.com/drive/1svI9xtMTUI7UMJ590B3cAeqYi-D2wGy9?usp=sharing)
